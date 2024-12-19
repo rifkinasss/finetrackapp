@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102555758538",
+    "project_id": "finetrackapp-657e0",
+    "storage_bucket": "finetrackapp-657e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102555758538:android:ba5f2b745008358efea933",
+        "android_client_info": {
+          "package_name": "com.example.finetrackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjmsq2dzPBfUGG0FAVCG_yDzgROq3pUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
